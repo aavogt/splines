@@ -1,5 +1,5 @@
 name:                   splines
-version:                0.5
+version:                0.5.0.2
 stability:              provisional
 
 cabal-version:          >= 1.9.2
